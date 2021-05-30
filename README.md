@@ -1,18 +1,14 @@
-## Developer Portfolio Landing Page Template
+## My Portfolio Landing Page made with React.js
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Use this react.js landing page if you need a quick developer / data science portfolio! Based on a React.js Library for GitHub Pages.
   
-___
+___ 
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+### React.js
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+React.js is a library of JavaScript and it is lightweight and easy-to-use syntax for styling your portfolio.
 
 ```markdown
 Syntax highlighted code block
